@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace MyAPI.Api.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/fornecedores")]
     public class FornecedoresController : ControllerBase
     {
         private readonly IFornecedorRepository _fornecedorRepository;

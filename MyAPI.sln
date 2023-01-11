@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAPI.Business", "src\API.B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyAPI.Data", "src\API.Data\MyAPI.Data.csproj", "{55E0D5AA-1EEE-49FE-AC19-2BE9A8F0268A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API.Api", "src\API.Api\API.Api.csproj", "{38CCF508-8CC7-4838-81E9-3C49F13CE900}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAPI.Api", "src\API.Api\MyAPI.Api.csproj", "{38CCF508-8CC7-4838-81E9-3C49F13CE900}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
